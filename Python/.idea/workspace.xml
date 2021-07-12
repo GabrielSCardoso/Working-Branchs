@@ -10,6 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+<<<<<<< HEAD
   <component name="GitToolBoxStore">
     <option name="recentBranches">
       <RecentBranches>
@@ -35,6 +36,8 @@
       </RecentBranches>
     </option>
   </component>
+=======
+>>>>>>> dc3db340607b43bfaf3c5444316042f3bc8cd09d
   <component name="ProjectId" id="1ulhj8SyKtD5uIXP2BhG5f7XWHt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -68,6 +71,9 @@
         </entry>
       </map>
     </option>
+<<<<<<< HEAD
     <option name="oldMeFiltersMigrated" value="true" />
+=======
+>>>>>>> dc3db340607b43bfaf3c5444316042f3bc8cd09d
   </component>
 </project>
